@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="110.92381mm"
-   height="120.47611mm"
-   viewBox="0 0 110.92381 120.47611"
+   width="112.64167mm"
+   height="120.63186mm"
+   viewBox="0 0 112.64167 120.63186"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -28,8 +28,8 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="1.3861733"
-     inkscape:cx="270.16823"
-     inkscape:cy="230.85136"
+     inkscape:cx="277.02164"
+     inkscape:cy="230.85137"
      inkscape:window-width="1920"
      inkscape:window-height="1027"
      inkscape:window-x="0"
@@ -56,8 +56,14 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-49.530976,-86.559563)"
-     style="display:inline"><image
+     transform="translate(-47.813118,-86.559563)"
+     style="display:inline"><rect
+       style="fill:#ffffff;fill-opacity:1;stroke-width:0.105833"
+       id="rect1"
+       width="6.4896889"
+       height="120.44099"
+       x="47.813118"
+       y="86.750435" /><image
        width="127"
        height="127"
        preserveAspectRatio="none"
@@ -203,14 +209,14 @@
        xml:space="preserve"
        style="font-weight:bold;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.2;stroke-dasharray:none;stroke-opacity:1"
        x="-143.63245"
-       y="53.120602"
+       y="51.5331"
        id="text52-71-7-3-8-0-3"
        transform="rotate(-90)"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.2"
          x="-143.63245"
-         y="53.120602"
-         id="tspan55-9-8-3-5-5-7">Z [cm]</tspan></text><text
+         y="51.5331"
+         id="tspan55-9-8-3-5-5-7">Vertical distance from plasma center [cm]</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.2;stroke-dasharray:none;stroke-opacity:1"
        x="100.67442"
@@ -225,14 +231,14 @@
    id="tspan62">n</tspan> ≥ 100 keV</tspan></text><text
        xml:space="preserve"
        style="font-weight:bold;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.2;stroke-dasharray:none;stroke-opacity:1"
-       x="100.67442"
-       y="205.01849"
+       x="100.8596"
+       y="205.54765"
        id="text52-71-7-3-8-0-3-5-0-9"><tspan
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:3.52778px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1.2"
-         x="100.67442"
-         y="205.01849"
-         id="tspan55-9-8-3-5-5-7-4-8-6">R [cm]</tspan></text><g
+         x="100.8596"
+         y="205.54765"
+         id="tspan55-9-8-3-5-5-7-4-8-6">Radial distance from FPP center [cm]</tspan></text><g
        id="g2"
        transform="translate(4.0000226,24.577909)"><text
          xml:space="preserve"
