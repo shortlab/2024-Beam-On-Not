@@ -1,0 +1,2 @@
+# Ic = 0.02 A, n = 5.34 , Tavg = 77.20 K, f37-anneal300K256h-773K
+#datetime                        t_s     iHTS_A                vHTS_V                tHTS_K  tTAR_K

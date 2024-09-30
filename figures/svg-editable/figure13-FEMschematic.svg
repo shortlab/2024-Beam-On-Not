@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="94mm"
+   height="70mm"
+   viewBox="0 0 94 70"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="figure13-FEMschematic.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.1701263"
+     inkscape:cx="170.92173"
+     inkscape:cy="169.21251"
+     inkscape:window-width="1712"
+     inkscape:window-height="799"
+     inkscape:window-x="142"
+     inkscape:window-y="66"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g23" />
+  <defs
+     id="defs1">
+    <marker
+       style="overflow:visible"
+       id="marker10"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Stop"
+       markerWidth="0.60000002"
+       markerHeight="0.30000001"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="none"
+       markerUnits="userSpaceOnUse">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1"
+         d="M 0,4 V -4"
+         id="path10" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Stop"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Stop"
+       markerWidth="0.60000002"
+       markerHeight="0.30000001"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="none"
+       markerUnits="userSpaceOnUse">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1"
+         d="M 0,4 V -4"
+         id="path23" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.30000001"
+       markerHeight="0.30000001"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="userSpaceOnUse">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.30000001"
+       markerHeight="0.30000001"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="userSpaceOnUse">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-4" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Triangle-8-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="Triangle arrow"
+       markerWidth="0.30000001"
+       markerHeight="0.30000001"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="xMidYMid"
+       markerUnits="userSpaceOnUse">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-4-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Stop-8"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Stop"
+       markerWidth="0.60000002"
+       markerHeight="0.30000001"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="none"
+       markerUnits="userSpaceOnUse">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1"
+         d="M 0,4 V -4"
+         id="path23-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="marker10-2"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Stop"
+       markerWidth="0.60000002"
+       markerHeight="0.30000001"
+       viewBox="0 0 1 1"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="none"
+       markerUnits="userSpaceOnUse">
+      <path
+         style="fill:none;stroke:context-stroke;stroke-width:1"
+         d="M 0,4 V -4"
+         id="path10-0" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-46.782706,-61.313054)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:7.05556px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:none;stroke:#000000;stroke-width:0.600001;stroke-dasharray:none;stroke-dashoffset:0"
+       x="131.70161"
+       y="85.76445"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="stroke-width:0.6"
+         x="131.70161"
+         y="85.76445" /></text>
+    <g
+       id="g23"
+       transform="translate(1.9962037,0.58201856)">
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.346991;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect1"
+         width="89.653015"
+         height="11.653009"
+         x="46.956203"
+         y="107.59888" />
+      <rect
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.42872;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect1-7"
+         width="89.571274"
+         height="5.5712795"
+         x="47.001629"
+         y="119.26655" />
+      <rect
+         style="fill:#ff0000;stroke:#ff0000;stroke-width:0.318809;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect1-7-7"
+         width="89.68119"
+         height="0.68119109"
+         x="46.949703"
+         y="124.78467" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.318809;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect1-7-7-4"
+         width="89.68119"
+         height="0.68119109"
+         x="46.949703"
+         y="125.77038" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.158088;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect1-7-7-0"
+         width="17.841911"
+         height="0.84191209"
+         x="118.86327"
+         y="106.5448" />
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.158088;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect1-7-7-0-3"
+         width="17.841911"
+         height="0.84191209"
+         x="46.861752"
+         y="106.5448" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981344px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:baseline;fill:#000000;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
+         x="78.136169"
+         y="-84.794067"
+         id="text2-0"
+         transform="rotate(90)"><tspan
+           sodipodi:role="line"
+           id="tspan2-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981344px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:baseline;stroke:none;stroke-width:0.1"
+           x="78.136169"
+           y="-84.794067"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981344px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:baseline;stroke:none"
+             id="tspan3-7">Ion beam spot</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981344px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:baseline;fill:#000000;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
+         x="47.91888"
+         y="114.21362"
+         id="text2-0-2"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981344px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:baseline;stroke:none;stroke-width:0.1"
+           x="47.91888"
+           y="114.21362"
+           id="tspan11">Faraday Tape</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981344px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:baseline;fill:#000000;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
+         x="48.149014"
+         y="123.02589"
+         id="text2-0-2-3"><tspan
+           sodipodi:role="line"
+           id="tspan2-7-3-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981344px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:baseline;fill:#000000;stroke:none;stroke-width:0.1"
+           x="48.149014"
+           y="123.02589">Thermal grease (thick. 10-30 µm)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:baseline;fill:#ff0000;fill-opacity:1;stroke:#fb0000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="120.12969"
+         y="122.7084"
+         id="text2-0-2-3-9"><tspan
+           id="tspan2-7-3-7-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:baseline;fill:#ff0000;fill-opacity:1;stroke:#fb0000;stroke-width:0.1;stroke-opacity:1"
+           x="120.12969"
+           y="122.7084"
+           sodipodi:role="line">K<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan19">Tape/Target</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981344px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:baseline;fill:#000000;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
+         x="98.310112"
+         y="110.82886"
+         id="text2-0-5"><tspan
+           sodipodi:role="line"
+           id="tspan2-7-4"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981344px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:baseline;fill:#000000;stroke:none;stroke-width:0.1"
+           x="98.310112"
+           y="110.82886">5 mm</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:baseline;fill:#000000;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
+         x="72.049568"
+         y="68.022285"
+         id="text2-0-5-0"><tspan
+           sodipodi:role="line"
+           id="tspan2-7-4-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;baseline-shift:baseline;fill:#000000;stroke:none;stroke-width:0.1"
+           x="72.049568"
+           y="68.022285">3.175 mm</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
+         x="134.48509"
+         y="105.0069"
+         id="text2-6"><tspan
+           sodipodi:role="line"
+           id="tspan2-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1"
+           x="134.48509"
+           y="105.0069">T<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan27">0</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
+         x="134.48509"
+         y="129.50681"
+         id="text2-6-5"><tspan
+           sodipodi:role="line"
+           id="tspan2-9-7"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1"
+           x="134.48509"
+           y="129.50681">T<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan26">0</tspan></tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
+         x="46.785339"
+         y="105.0069"
+         id="text2-6-5-5"><tspan
+           sodipodi:role="line"
+           id="tspan2-9-7-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1"
+           x="46.785339"
+           y="105.0069">T<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan28">0</tspan></tspan></text>
+      <g
+         id="g8"
+         transform="matrix(0,1.1103092,-0.88247159,0,178.62463,-5.0313847)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:0.599999, 0.3;stroke-dashoffset:0;marker-end:url(#Triangle-8-0)"
+           d="m 66.43493,102.62326 h 40.26895"
+           id="path3-9-4" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:0.599999, 0.3;stroke-dashoffset:0;marker-end:url(#Triangle)"
+           d="M 66.434927,98.447254 H 106.70388"
+           id="path3" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:0.599999, 0.3;stroke-dashoffset:0;marker-end:url(#Triangle-8)"
+           d="M 66.434926,94.271247 H 106.70388"
+           id="path3-9" />
+      </g>
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.299987;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3"
+         width="8.7005129"
+         height="5.7000127"
+         x="98.851616"
+         y="-109.20916"
+         transform="rotate(90)" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.6;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#Stop);marker-end:url(#marker10)"
+         d="M 106.13739,107.56458 H 91.73715"
+         id="path6" />
+      <path
+         style="fill:#000000;stroke:#000000;stroke-width:0.6;stroke-dasharray:none;stroke-dashoffset:0;marker-start:url(#Stop-8);marker-end:url(#marker10-2)"
+         d="M 95.453809,67.057621 H 88.053753"
+         id="path6-1" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981344px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
+         x="126.77882"
+         y="90.821884"
+         id="text2-6-5-5-0"><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981344px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.1"
+           x="126.77882"
+           y="90.821884"
+           id="tspan2">5 µm Indium</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:none;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
+         x="126.68649"
+         y="77.276466"
+         id="text2-6-5-5-0-3"><tspan
+           sodipodi:role="line"
+           id="tspan2-9-7-9-0-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222003px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.1"
+           x="126.68649"
+           y="77.276466">Sensor CX-T</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222003px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke:none;stroke-width:0.1"
+           x="126.68649"
+           y="80.804245"
+           id="tspan14">(Ceramic)</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;stroke:#000000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0"
+         x="125.63637"
+         y="63.414951"
+         id="text2-6-7"><tspan
+           sodipodi:role="line"
+           id="tspan2-9-1"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.1"
+           x="125.63637"
+           y="63.414951">T<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan25">0</tspan></tspan></text>
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 109.2123,107.44303 136.71642,93.932226"
+         id="path14" />
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.342492;stroke-dasharray:0.342492, 0.342492;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect14"
+         width="5.9638453"
+         height="5.1969228"
+         x="75.647797"
+         y="141.63992"
+         transform="matrix(0.90403671,-0.42745483,0.41552383,0.90958229,0,0)" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         x="120.05878"
+         y="96.813637"
+         id="text2-6-7-5"><tspan
+           sodipodi:role="line"
+           id="tspan2-9-1-0"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.93981px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.1;stroke-opacity:1"
+           x="120.05878"
+           y="96.813637">K<tspan
+   style="font-size:65%;baseline-shift:sub"
+   id="tspan24">Tape/Sensor</tspan></tspan></text>
+      <rect
+         style="fill:#000000;stroke:#000000;stroke-width:0.165822;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect1-7-7-0-0"
+         width="19.814161"
+         height="0.83409262"
+         x="116.88564"
+         y="65.019485" />
+      <rect
+         style="fill:none;stroke:#000000;stroke-width:0.3;stroke-dasharray:none;stroke-dashoffset:0"
+         id="rect3-5"
+         width="26.985163"
+         height="19.684744"
+         x="66.055855"
+         y="-136.627"
+         transform="rotate(90)" />
+      <rect
+         style="fill:#ff0000;fill-opacity:1;stroke:#ff0000;stroke-width:0.165822;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1-7-7-0-0-3"
+         width="19.814161"
+         height="0.83409262"
+         x="116.87892"
+         y="92.996277" />
+      <rect
+         style="fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:0.165822;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1-7-7-0-0-3-5"
+         width="19.814161"
+         height="0.83409262"
+         x="116.87892"
+         y="92.005035" />
+      <path
+         style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.3;stroke-dasharray:0.3, 0.3;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 103.42195,98.596668 116.77191,64.980512"
+         id="path13" />
+    </g>
+  </g>
+</svg>
