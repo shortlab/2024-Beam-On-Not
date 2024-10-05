@@ -1,7 +1,0 @@
-% Model:              BeamAdsorber_3D+2D__20K_sensorVarCurr_150keV_Apiezon_f29-1.mph
-% Version:            COMSOL 6.2.0.290
-% Date:               Sep 29 2024, 18:16
-% Table:              Table 3 - Global Evaluation 2
-% Iop (A)                hKapton (m)              SensPos (m)              REBCO (K)                Sensor (K)
-27.5                     1.4999999999999999E-5    0                        8.94473249997317         1.2284352623246377
-31.5                     1.4999999999999999E-5    0                        10.23645575245542        1.4085494648915073

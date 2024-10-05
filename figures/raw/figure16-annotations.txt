@@ -1,0 +1,23 @@
+- Top left
+MaxTREBCO= 21.97 K
+TSensor= 20.02 K
+ffj33 150keV x 240 nA
+hApiezon=1.3 um
+
+- Top right
+MaxTREBCO=26.82 K
+TSensor=20.54 K
+ffj20 2400 keV x 15 nA
+hApiezon=9 um
+
+- Bottom left
+MaxTREBCO=29.92 K
+TSensor=21.52 K
+ffj29 800 keV x 45 nA
+hApiezon=24 um
+
+- Bottom right
+MaxTREBCO=31.32 K
+TSensor=20.42 K
+ffj28 1200 keV x 30 nA
+hApiezon=19 um
